@@ -1,0 +1,47 @@
+header, footer {
+    background-color: aliceblue;
+    border: 3px dotted plum;
+    font-family: Arial;
+}
+
+body {
+    background-color: cornsilk;
+    font-family: Arial;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.book-title{
+    font-style: italic;
+}
+
+h1{
+    color: gray
+}
+
+h2{
+    color: palevioletred;
+}
+
+h3 {
+    color: yellowgreen;
+}
+
+a:hover {
+    color:aquamarine;
+}
+
+.book-details {
+    background: ivory;
+}
+
+.book-description {
+    background: pink;
+}
+
+.book-reviews {
+    background: lightcyan;
+    line-height: 150%
+}
